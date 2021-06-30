@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(161, 193, 230);
+    font-family:monospace
+}
+
+
+
+nav{
+    background-color: rgb(197, 205, 221);
+    margin:0%;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+h1{
+    font-size: 60px;
+}
+
+h1,h2{
+    text-align:center
+}
+
+.picture{
+    background-color: black;
+    padding: 10px ;
+}
+
+
+#headphone{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+p{
+    text-align: center;
+    color: cornsilk;
+}
+
+form{
+    align-items: center;
+    border: 5px solid rgb(10, 9, 8);
+    display: inline-flex;
+    position: relative;
+    left: 42%;
+
+    }
+
+
+footer{
+    text-align: center;
+    background-color: rgb(15, 16, 17);
+   
+
+}
+
